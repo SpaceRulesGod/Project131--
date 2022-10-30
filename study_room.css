@@ -1,0 +1,9 @@
+.study_room_image{
+    width:500px;
+    height: 300px;
+}
+body{
+    background-image: url("Background\ Home\ Screen.jpg");
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url("Background\ Home\ Screen.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    font-size: 23px;    
+}
+#a{
+    fill: gray;
+    stroke: gray;
+    font-size: 100px;
+}
